@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'ZawgyiTaiTai';
+    src: url('fonts/ZawgyiTaiTai.eot');
+    src: url('fonts/ZawgyiTaiTai.eot') format('embedded-opentype'),
+         url('fonts/ZawgyiTaiTai.woff') format('woff'),
+         url('fonts/ZawgyiTaiTai.ttf') format('truetype'),
+         url('fonts/ZawgyiTaiTai.svg#ZawgyiTaiTai') format('svg');
+}
+
+@font-face {
+    font-family: 'ZawgyiTai';
+    src: url('ZawgyiTai.eot');
+    src: url('fonts/ZawgyiTai.eot') format('embedded-opentype'),
+         url('fonts/ZawgyiTai.woff') format('woff'),
+         url('fonts/ZawgyiTai.ttf') format('truetype'),
+         url('fonts/ZawgyiTai.svg#ZawgyiTai') format('svg');
+}
+
+#uniout {
+	 font-family: 'ZawgyiTaiTai';
+}
+
+#zgsrc {
+	font-family: 'ZawgyiTai';
+}
+
+#unifont {
+	font-family: 'ZawgyiTaiTai';
+}
